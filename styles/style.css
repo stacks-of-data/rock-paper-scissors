@@ -1,0 +1,10 @@
+body {
+    display: flex;
+    background-color: gray;
+    justify-content: center;
+    flex-direction: column;
+}
+
+p {
+    align-self: center;
+}
